@@ -28,23 +28,26 @@ Once the program starts, you can:
 
 Smart-Parking-Lot-Manager/
 │
-├── main.cpp               // Program entry point
-├── ParkingLot.cpp         // ParkingLot class implementation
-├── ParkingLot.h           // ParkingLot class definition
-├── Vehicle.cpp            // Vehicle class implementation
-├── Vehicle.h              // Vehicle class definition
+├── main.cpp
+├── ParkingLot.cpp
+├── ParkingLot.h
+├── Vehicle.cpp
+├── Vehicle.h
 │
-├── README.md              // Project documentation
-└── LICENSE                // MIT License
+├── README.md
+└── LICENSE
 
 Parking Lot Status:
 Occupied Spaces: 1
 Available Spaces: 4
 
-Vehicle ABC123 added successfully.
+Vehicle LHW240 added successfully.
 
 Parking Lot Status:
 Occupied Spaces: 2
 Available Spaces: 3
 
-Vehicle ABC123 removed successfully.
+Vehicle LHW240 removed successfully.
+
+
+
