@@ -26,17 +26,20 @@ Once the program starts, you can:
 - C++11 or later
 - Standard library support for vector, string, and iostream
 
-Smart-Parking-Lot-Manager/
+### Project Structure
+#### Smart-Parking-Lot-Manager
 │
-├── main.cpp
-├── ParkingLot.cpp
-├── ParkingLot.h
-├── Vehicle.cpp
-├── Vehicle.h
+|-- main.cpp
+|-- ParkingLot.cpp
+|-- ParkingLot.h
+|-- Vehicle.cpp
+|-- Vehicle.h
 │
-├── README.md
-└── LICENSE
+|--README.md
+|_ LICENSE
 
+
+### Sample OutPut 
 Parking Lot Status:
 Occupied Spaces: 1
 Available Spaces: 4
