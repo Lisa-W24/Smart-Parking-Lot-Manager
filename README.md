@@ -39,7 +39,7 @@ Once the program starts, you can:
 |_ LICENSE
 
 
-### Sample OutPut 
+#### Sample OutPut 
 Parking Lot Status:
 Occupied Spaces: 1
 Available Spaces: 4
