@@ -25,3 +25,26 @@ Once the program starts, you can:
 - C++ compiler (g++, clang++, or Visual Studio Build Tools)
 - C++11 or later
 - Standard library support for vector, string, and iostream
+
+Smart-Parking-Lot-Manager/
+│
+├── main.cpp               // Program entry point
+├── ParkingLot.cpp         // ParkingLot class implementation
+├── ParkingLot.h           // ParkingLot class definition
+├── Vehicle.cpp            // Vehicle class implementation
+├── Vehicle.h              // Vehicle class definition
+│
+├── README.md              // Project documentation
+└── LICENSE                // MIT License
+
+Parking Lot Status:
+Occupied Spaces: 1
+Available Spaces: 4
+
+Vehicle ABC123 added successfully.
+
+Parking Lot Status:
+Occupied Spaces: 2
+Available Spaces: 3
+
+Vehicle ABC123 removed successfully.
